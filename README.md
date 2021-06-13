@@ -1,3 +1,3 @@
 # apartments
 
-[Click me!](https://github.com/thezapalsky/apartments/blob/main/apartments-pred-mz.ipynb) 
+[Click me!](https://github.com/thezapalsky/apartments/blob/main/apartments-pred.ipynb) 
